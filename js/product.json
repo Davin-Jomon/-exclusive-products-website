@@ -1,0 +1,210 @@
+{
+    "categories": [
+      {
+        "id": "phones",
+        "name": "Phones",
+        "icon": "phone-icon"
+      },
+      {
+        "id": "computers",
+        "name": "Computers",
+        "icon": "computer-icon"
+      },
+      {
+        "id": "smartwatch",
+        "name": "SmartWatch",
+        "icon": "watch-icon"
+      },
+      {
+        "id": "headphones",
+        "name": "HeadPhones",
+        "icon": "headphone-icon"
+      },
+      {
+        "id": "gaming",
+        "name": "Gaming",
+        "icon": "gaming-icon"
+      },
+      {
+        "id": "camera",
+        "name": "Camera",
+        "icon": "camera-icon"
+      }
+    ],
+    "products": [
+      {
+        "id": "1",
+        "name": "Breed Dry Dog Food",
+        "price": 100.0,
+        "rating": 4.5,
+        "reviews": 145,
+        "image": "dog-food.jpg"
+      },
+      {
+        "id": "2",
+        "name": "CANON EOS 250D Camera",
+        "price": 360.0,
+        "rating": 4.8,
+        "reviews": 183,
+        "image": "canon-camera.jpg"
+      },
+      {
+        "id": "3",
+        "name": "ASUS FHD Gaming Laptop",
+        "price": 700.0,
+        "rating": 4.6,
+        "reviews": 320,
+        "image": "asus-laptop.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Curology Product Set",
+        "price": 500.0,
+        "rating": 4.7,
+        "reviews": 445,
+        "image": "curology-set.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Kids Electric Car",
+        "price": 960.0,
+        "rating": 4.4,
+        "reviews": 89,
+        "image": "kids-car.jpg",
+        "colors": ["Red", "Blue"],
+        "tag": "New"
+      },
+      {
+        "id": "6",
+        "name": "Jr Zoom Soccer Cleats",
+        "price": 960.0,
+        "rating": 4.3,
+        "reviews": 324,
+        "image": "soccer-cleats.jpg",
+        "colors": ["Yellow", "Black"]
+      },
+      {
+        "id": "7",
+        "name": "GP5 Shooter USB Gamepad",
+        "price": 550.0,
+        "rating": 4.2,
+        "reviews": 234,
+        "image": "gamepad.jpg",
+        "colors": ["Black", "Red"],
+        "tag": "New"
+      },
+      {
+        "id": "8",
+        "name": "Quilted Satin Jacket",
+        "price": 250.0,
+        "rating": 4.5,
+        "reviews": 145,
+        "image": "satin-jacket.jpg",
+        "colors": ["Green", "Red"]
+      },
+      {
+        "id": "9",
+        "name": "HAVIT HV-G92 Gamepad",
+        "price": 120.0,
+        "oldPrice": 160.0,
+        "rating": 4.0,
+        "reviews": 145,
+        "image": "havit-gamepad.jpg",
+        "tag": "Sale"
+      },
+      {
+        "id": "10",
+        "name": "AK-900 Wired Keyboard",
+        "price": null,
+        "image": "gaming-keyboard.jpg",
+        "tag": "Sale"
+      },
+      {
+        "id": "11",
+        "name": "IPS LCD Gaming Monitor",
+        "price": 160.0,
+        "oldPrice": 170.0,
+        "rating": 4.0,
+        "reviews": 45,
+        "image": "gaming-monitor.jpg",
+        "tag": "Sale"
+      },
+      {
+        "id": "12",
+        "name": "RGB Liquid CPU Cooler",
+        "price": 170.0,
+        "rating": 4.0,
+        "reviews": 45,
+        "image": "cpu-cooler.jpg"
+      },{
+        "id": "13",
+        "name": "Breed Dry Dog Food",
+        "price": 100.0,
+        "rating": 4.5,
+        "reviews": 145,
+        "image": "dog-food.jpg"
+      },
+      {
+        "id": "14",
+        "name": "CANON EOS 250D Camera",
+        "price": 360.0,
+        "rating": 4.8,
+        "reviews": 183,
+        "image": "canon-camera.jpg"
+      },
+      {
+        "id": "15",
+        "name": "ASUS FHD Gaming Laptop",
+        "price": 700.0,
+        "rating": 4.6,
+        "reviews": 320,
+        "image": "asus-laptop.jpg"
+      },
+      {
+        "id": "16",
+        "name": "Curology Product Set",
+        "price": 500.0,
+        "rating": 4.7,
+        "reviews": 445,
+        "image": "curology-set.jpg"
+      },
+      {
+        "id": "17",
+        "name": "Kids Electric Car",
+        "price": 960.0,
+        "rating": 4.4,
+        "reviews": 89,
+        "image": "kids-car.jpg",
+        "colors": ["Red", "Blue"],
+        "tag": "New"
+      },
+      {
+        "id": "18",
+        "name": "Jr Zoom Soccer Cleats",
+        "price": 960.0,
+        "rating": 4.3,
+        "reviews": 324,
+        "image": "soccer-cleats.jpg",
+        "colors": ["Yellow", "Black"]
+      },
+      {
+        "id": "19",
+        "name": "GP5 Shooter USB Gamepad",
+        "price": 550.0,
+        "rating": 4.2,
+        "reviews": 234,
+        "image": "gamepad.jpg",
+        "colors": ["Black", "Red"],
+        "tag": "New"
+      },
+      {
+        "id": "20",
+        "name": "Quilted Satin Jacket",
+        "price": 250.0,
+        "rating": 4.5,
+        "reviews": 145,
+        "image": "satin-jacket.jpg",
+        "colors": ["Green", "Red"]
+      }
+    ]
+  }
